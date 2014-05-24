@@ -27,5 +27,5 @@ protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* InputComponent) OVERRIDE;
 	// End of APawn interface
-
+	
 };
